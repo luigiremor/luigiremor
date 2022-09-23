@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luigiremor
-- 📫 How to reach me @luigiremor in whatever social network
+- 📫 How to reach me @luigiremor in any social network
 
 <!---
 luigiremor/luigiremor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
