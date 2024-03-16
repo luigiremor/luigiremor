@@ -3,9 +3,11 @@
 
 - 🔥 Full Stack Developer;
 
-- 🔭 I’m currently working at [Laboratório Bridge](https://github.com/laboratoriobridge);
+- 🔭 I’m currently working at [Cold Brew](https://www.coldbrewdao.com/)
 
 - 🦾 Getting better everyday!
+
+- 🏗️ Building great stuff at Solana
 
 <br><br>
 
