@@ -3,7 +3,7 @@
 
 - 🔥 Full Stack Developer;
 
-- 🔭 I’m currently working at [Phase Labs Ø](https://twitter.com/phaselabs_)
+- 🔭 I’m a Founding Engineer at [Phase Labs Ø](https://twitter.com/phaselabs_)
 
 - 🦾 Getting better everyday!
 
